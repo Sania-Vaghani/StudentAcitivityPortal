@@ -1,4 +1,4 @@
-# StudentAcitivityPortal
+# Student Acitivity Portal
 
 A web application for managing and tracking student activities, events, and participation within an educational institution.
 
